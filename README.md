@@ -9,6 +9,52 @@
 
 > 当前版本：**0.0.1，早期体验版**。仓库提供产品介绍与发行下载；灵境造片厂为闭源软件，应用内名称和安装目录仍分别为“灵境造片厂”和 `LingJingAPP`。
 
+## 界面预览
+
+**导演模式 · 在同一制作台整理角色、脚本与分镜**
+
+角色参考、章节脚本、首尾帧提示词和镜头素材集中展示，便于逐步查看和调整。
+
+![导演模式：角色、脚本、分镜与视频制作台](assets/screenshots/director-workbench.png)
+
+<details>
+<summary><strong>工厂模式 · 设置故事、画风和审核节点</strong>（点击展开）</summary>
+
+填写故事灵感、目标时长与画幅，选择视觉风格，并决定哪些步骤自动推进、哪些步骤由你确认。
+
+![工厂模式：故事灵感、风格选择与审核节点](assets/screenshots/factory-mode.png)
+
+</details>
+
+<details>
+<summary><strong>创作助手 · 选择已有素材，按需增强</strong>（点击展开）</summary>
+
+从当前项目选择素材，指定增强工作流和放大倍数；原文件保留，增强结果另存。
+
+![创作助手：已有素材选择与画质增强](assets/screenshots/creative-assistant.png)
+
+</details>
+
+<details>
+<summary><strong>生成模块 · 管理本地环境、工作流和模型</strong>（点击展开）</summary>
+
+查看工作流缺失的模型、补齐资源并跟踪任务。仅使用第三方 API 时，无需先安装完整本地生成环境。
+
+![生成模块：环境管理、工作流模型列表与任务状态](assets/screenshots/local-generation.png)
+
+</details>
+
+<details>
+<summary><strong>模型设置 · 配置自己的生成服务</strong>（点击展开）</summary>
+
+配置文字模型与图片/视频服务，并按需要绑定即梦账号。截图中的密钥已遮蔽。
+
+![模型设置：文字 API、图片视频接口与即梦账号配置](assets/screenshots/model-settings.png)
+
+</details>
+
+截图来自示例项目；模型选项、授权和服务连接状态以实际配置为准。
+
 ## 让精力留在创作上
 
 做 AI 视频，生成一个镜头只是其中一步。脚本拆分、角色参考、分镜整理、素材下载、视频合成，往往需要反复切换工具。
