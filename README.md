@@ -98,7 +98,7 @@
 
 ## 下载与开始
 
-1. 打开 **[v0.0.1 下载页](https://github.com/Yaro-lu/LingJingMovie/releases/tag/v0.0.1)**，下载 `LingJingAPP-Setup-0.0.1-Protected-win-x64.exe`。
+1. 打开 [**Releases**](https://github.com/Yaro-lu/LingJingMovie/releases)，下载 `LingJingAPP-Setup-0.0.1-Protected-win-x64.exe`。
 2. 安装并启动“灵境造片厂”，在设置中填写自己的 API 配置；也可按需激活支持者功能。
 3. 新建项目，从一个短镜头或简单故事开始，选择导演模式或工厂模式。
 4. 需要本地生成时，在生成模块安装环境，并按所选工作流补齐模型。
@@ -106,12 +106,12 @@
 
 | 下载项 | 大小 | 什么时候需要 |
 | --- | --- | --- |
-| [Windows 主安装包](https://github.com/Yaro-lu/LingJingMovie/releases/download/v0.0.1/LingJingAPP-Setup-0.0.1-Protected-win-x64.exe) | 约 257 MiB | 所有用户 |
-| [安装包 SHA256](https://github.com/Yaro-lu/LingJingMovie/releases/download/v0.0.1/LingJingAPP-Setup-0.0.1-Protected-win-x64.exe.sha256) | 小文件 | 校验下载是否完整 |
-| [独立 ComfyUI 环境包](https://github.com/Yaro-lu/LingJingAPI/releases/download/v2.0.0/runtime-nvidia-rtx20plus-cu130-v2.0.0.7z) | 约 1.98 GiB | 本地模型生成；也可在应用内在线安装 |
-| [环境包 SHA256](https://github.com/Yaro-lu/LingJingAPI/releases/download/v2.0.0/runtime-nvidia-rtx20plus-cu130-v2.0.0.7z.sha256) | 小文件 | 校验离线环境包 |
+| Windows 主安装包 | 约 257 MiB | 所有用户 |
+| 安装包 SHA256 | 小文件 | 校验下载是否完整 |
+| 独立 ComfyUI 环境包 | 约 1.98 GiB | 本地模型生成；也可在应用内在线安装 |
+| 环境包 SHA256 | 小文件 | 校验离线环境包 |
 
-环境包复用作者维护的 LingJingAPI 公开发行文件，ComfyUI 保持原始形式，未做代码混淆；生成模型权重按需另行下载。使用应用内的环境包导入入口安装，不要把环境包当成主程序安装器。
+主安装包、独立环境包与各自的校验文件统一在 [**Releases**](https://github.com/Yaro-lu/LingJingMovie/releases) 中获取。环境包与 LingJingAPI 使用相同版本，ComfyUI 保持原始形式，未做代码混淆；生成模型权重按需另行下载。使用应用内的环境包导入入口安装，不要把环境包当成主程序安装器。
 
 **系统要求**：Windows 10/11 x64。仅调用第三方 API 不要求本机具备 NVIDIA 显卡。当前独立 CUDA 13 环境面向 NVIDIA RTX 20 系及后续显卡，要求匹配的驱动（580 或以上）和至少 8 GB 显存；这不代表所有工作流都能在 8 GB 上运行，请以工作流的具体要求为准。
 
