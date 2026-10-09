@@ -6,7 +6,6 @@
 
 面向个人创作者的 Windows AI 视频工作台。你可以逐步确认创作方向，也可以让工厂模式接续执行；文字、图片、视频模型分别选择，素材和结果留在同一个项目里。
 
-**[下载 Windows 体验版](https://github.com/Yaro-lu/LingJingMovie/releases/tag/v0.0.1)** · **[反馈问题](https://github.com/Yaro-lu/LingJingMovie/issues)** · **[支持与恢复购买](https://lingsn.lol-lu.site)**
 
 > 当前版本：**0.0.1，早期体验版**。仓库提供产品介绍与发行下载；灵境造片厂为闭源软件，应用内名称和安装目录仍分别为“灵境造片厂”和 `LingJingAPP`。
 
