@@ -155,10 +155,3 @@ GitHub 自动生成的 Source code 压缩包只包含本仓库的介绍与发行
 Copyright © 2026 Yaro-lu. 灵境造片厂自有代码保留所有权利；公开下载不代表授予项目级开源许可。第三方软件、模型和生成服务分别受各自的许可证和使用条款约束，相关权利不受本声明限制。
 
 感谢 ComfyUI、Python、PyTorch、Node.js、PGlite、FFmpeg、RIFE、Real-ESRGAN、ncnn、7-Zip 等项目。完整许可证随发行文件保留。视频内容能否商用取决于所用模型、素材和服务条款，支持者授权本身不替代这些授权。
-
-- ComfyUI：[上游源码与许可证](https://github.com/Comfy-Org/ComfyUI)，随独立环境分发。
-- FFmpeg 8.0（Gyan.dev full build）：[对应源码提交](https://github.com/FFmpeg/FFmpeg/tree/140fd653ae) · [构建来源及外部库](https://www.gyan.dev/ffmpeg/builds/)；构建配置与 GPL-3.0 文本随程序保留于 `bin/video-enhance/ffmpeg/`。
-- imageio-ffmpeg：[上游项目与二进制构建脚本](https://github.com/imageio/imageio-ffmpeg/tree/v0.6.0)；依赖包自带的 FFmpeg 受其自身许可证约束。
-- RIFE / Real-ESRGAN：[RIFE 推理实现](https://github.com/nihui/rife-ncnn-vulkan) · [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)。
-
-有第三方源码或许可相关问题，可通过上述联系邮箱反馈。
