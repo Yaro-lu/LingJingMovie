@@ -1,14 +1,14 @@
 {
   "product": "LingJingMovie",
   "application": "LingJingAPP",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "channel": "preview",
   "platform": "windows-x64",
   "installer": {
-    "name": "LingJingAPP-Setup-0.0.2-Protected-win-x64.exe",
-    "size_bytes": 269834851,
-    "sha256": "f20c42be14c52b06fe3aeeea503ef256e59abeff16ce11468e37f5fd6fc372e7",
-    "url": "https://github.com/Yaro-lu/LingJingMovie/releases/download/v0.0.2/LingJingAPP-Setup-0.0.2-Protected-win-x64.exe"
+    "name": "LingJingAPP-Setup-0.0.3-Protected-win-x64.exe",
+    "size_bytes": 269833670,
+    "sha256": "2024be3693a9da5309b3e439878f289b16c42b5241cb8ebe0d2abe02d1e7ba77",
+    "url": "https://github.com/Yaro-lu/LingJingMovie/releases/download/v0.0.3/LingJingAPP-Setup-0.0.3-Protected-win-x64.exe"
   },
   "runtime": {
     "version": "2.0.0",
