@@ -1,0 +1,15 @@
+# Public repository: documentation and explicitly reviewed release metadata only.
+*.exe
+*.dll
+*.pyd
+*.7z
+*.zip
+*.sn
+*.pem
+*.key
+*.env
+node_modules/
+runtime/
+models/
+outputs/
+license_server/
