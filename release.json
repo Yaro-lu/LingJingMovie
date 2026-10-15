@@ -1,19 +1,21 @@
 {
   "product": "LingJingMovie",
   "application": "LingJingAPP",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "channel": "preview",
   "platform": "windows-x64",
   "installer": {
-    "name": "LingJingAPP-Setup-0.0.5-Protected-win-x64.exe",
-    "size_bytes": 270342884,
-    "sha256": "7bdcc8c6d210df09d1f72c23d214462bcac6da988c434ccffc2cd5b9ffdaf662",
-    "url": "https://github.com/Yaro-lu/LingJingMovie/releases/download/v0.0.5/LingJingAPP-Setup-0.0.5-Protected-win-x64.exe"
+    "name": "LingJingAPP-Setup-0.1.0-Protected-win-x64.exe",
+    "size_bytes": 339826773,
+    "sha256": "88663f656d48c03553b1c6e3dbaeeaac7632c5f4b37cd07b3d71135385e31d11",
+    "url": "https://github.com/Yaro-lu/LingJingMovie/releases/download/v0.1.0/LingJingAPP-Setup-0.1.0-Protected-win-x64.exe"
   },
   "runtime": {
     "version": "2.0.0",
     "size_bytes": 2125379992,
     "sha256": "93017865a3886317265e73203617f1358fad4de00f0584bebc22416602af06a6",
     "url": "https://github.com/Yaro-lu/LingJingMovie/releases/download/v0.0.1/runtime-nvidia-rtx20plus-cu130-v2.0.0.7z"
-  }
+  },
+  "published_date": "2026-10-15",
+  "notes_url": "https://github.com/Yaro-lu/LingJingMovie/blob/main/docs/releases/0.1.0.md"
 }
