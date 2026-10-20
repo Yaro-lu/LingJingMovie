@@ -6,8 +6,8 @@
   "platform": "windows-x64",
   "installer": {
     "name": "LingJingAPP-Setup-0.1.1-Protected-win-x64.exe",
-    "size_bytes": 339841666,
-    "sha256": "e1e7abbf8491b5b78b68a4060317e4298419f009869357db92ec0ee7ff65bc69",
+    "size_bytes": 339845725,
+    "sha256": "7cc57355e980d7ebff02d150c106e9a182a80d3203422a43ab48ec2679003cf1",
     "url": "https://github.com/Yaro-lu/LingJingMovie/releases/download/v0.1.1/LingJingAPP-Setup-0.1.1-Protected-win-x64.exe"
   },
   "runtime": {
